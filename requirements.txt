@@ -72,10 +72,10 @@ itsdangerous==1.1.0
 Jinja2
 lazy-object-proxy
 MarkupSafe
-mccabe==0.6.1
-numpy==1.19.2
-pycodestyle==2.6.0
-pylint==2.6.0
-toml==0.10.1
-Werkzeug==1.0.1
-wrapt==1.12.1
+mccabe
+numpy
+pycodestyle
+pylint
+toml
+Werkzeug
+wrapt
